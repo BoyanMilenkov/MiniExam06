@@ -1,0 +1,12 @@
+E:\BOBO\C#\MiniExam6\BookShop.Models\bin\Debug\net6.0\BookShop.Models.deps.json
+E:\BOBO\C#\MiniExam6\BookShop.Models\bin\Debug\net6.0\BookShop.Models.dll
+E:\BOBO\C#\MiniExam6\BookShop.Models\bin\Debug\net6.0\BookShop.Models.pdb
+E:\BOBO\C#\MiniExam6\BookShop.Models\obj\Debug\net6.0\BookShop.Models.csproj.AssemblyReference.cache
+E:\BOBO\C#\MiniExam6\BookShop.Models\obj\Debug\net6.0\BookShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\BOBO\C#\MiniExam6\BookShop.Models\obj\Debug\net6.0\BookShop.Models.AssemblyInfoInputs.cache
+E:\BOBO\C#\MiniExam6\BookShop.Models\obj\Debug\net6.0\BookShop.Models.AssemblyInfo.cs
+E:\BOBO\C#\MiniExam6\BookShop.Models\obj\Debug\net6.0\BookShop.Models.csproj.CoreCompileInputs.cache
+E:\BOBO\C#\MiniExam6\BookShop.Models\obj\Debug\net6.0\BookShop.Models.dll
+E:\BOBO\C#\MiniExam6\BookShop.Models\obj\Debug\net6.0\refint\BookShop.Models.dll
+E:\BOBO\C#\MiniExam6\BookShop.Models\obj\Debug\net6.0\BookShop.Models.pdb
+E:\BOBO\C#\MiniExam6\BookShop.Models\obj\Debug\net6.0\ref\BookShop.Models.dll
